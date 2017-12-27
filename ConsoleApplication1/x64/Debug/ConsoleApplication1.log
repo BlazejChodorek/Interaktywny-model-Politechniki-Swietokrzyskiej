@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(81): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(142): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(151): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(271): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(521): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(526): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(591): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(593): warning C4244: "-=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Users\Laura\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Laura\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Partial PDB)

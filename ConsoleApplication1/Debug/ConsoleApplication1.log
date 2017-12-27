@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(172): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(403): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(408): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(473): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\laura\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(475): warning C4244: "-=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Users\Laura\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Laura\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
